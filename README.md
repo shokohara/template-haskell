@@ -1,3 +1,3 @@
-# todo
+# mahjong-haskell
 
-add description of todo here
+add description of mahjon-ghaskell here
